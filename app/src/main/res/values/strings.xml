@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quintype</string>
+    <string name="title_activity_member_details">Profile</string>
+    <string name="title_activity_favorite">Favourite</string>
+    <string name="no_searched_history_result_found">No Searched history Result Found</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="imdb_rating">Imdb Rating :</string>
+    <string name="country">Country :</string>
+    <string name="language">Language :</string>
+    <string name="actor">Actor :</string>
+    <string name="director">Director :</string>
+    <string name="gener">Gener :</string>
+    <string name="year">Year :</string>
+    <string name="quintype_search_movie">Quintype Search Movie</string>
+</resources>
